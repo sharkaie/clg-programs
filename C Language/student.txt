@@ -1,0 +1,9 @@
+
+Name: Vedant 
+Marks=5 
+
+Name: Dushant 
+Marks=10 
+
+Name: Mahee 
+Marks=100 
